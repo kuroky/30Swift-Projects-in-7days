@@ -1,0 +1,6 @@
+framework module Pods_EmojiSlotMachine {
+  umbrella header "Pods-EmojiSlotMachine-umbrella.h"
+
+  export *
+  module * { export * }
+}
